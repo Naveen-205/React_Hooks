@@ -1,0 +1,21 @@
+
+.csk {
+  color: black;
+}
+.rcb{
+  color: black;
+}
+.rcbimage {
+  width: 600px;
+  height: 400px;
+}
+.cskimage{
+  width: 600px;
+  height: 400px;
+}
+.rcb img{
+  align-items: center;
+}
+.csk img{
+  align-items: center;
+}
